@@ -4,6 +4,5 @@ class Dog
     @breed = breed
   end 
 end 
-dog = Dog.new("Mutt")
-Dog.new = "Mutt"
+
 
